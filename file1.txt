@@ -1,5 +1,5 @@
 Hello world!
 12345
 Bye!
-123
+line from user2
 line 1
